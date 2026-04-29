@@ -28,7 +28,7 @@
 ## 🧠 Live Skill Visualization
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,git" />
 </p>
 
 ---
